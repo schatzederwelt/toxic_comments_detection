@@ -40,18 +40,6 @@
 <br> ✔️ Стемминг      ✔️ Лемматизация      ✔️ Частотный анализ</br>
 </div>
 
-## Инструменты
-
-<div class="alert alert-success">
-<b>Инструменты:</b>
-<br> ✔️ NLTK ✔️ CountVectorizer ✔️ TfidfVectorizer</br>
-<br> ✔️ imblearn (oversampling, undersampling)</br>
-<br> ✔️ Chi-squared test 
-<br> ✔️ Lime  ✔️ WordCloud </br>
-<br> ✔️ LogisticRegression 
-
-</div>
-
 ## Исходные данные
 
 
