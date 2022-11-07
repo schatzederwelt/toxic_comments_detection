@@ -1,5 +1,5 @@
 # Автоматическое выявление токсичных комментариев
-![comments_nlp](https://st4.depositphotos.com/2454953/21024/i/600/depositphotos_210245966-stock-photo-ignore-haters-word-cloud-hand.jpg)
+<!---![comments_nlp](https://st4.depositphotos.com/2454953/21024/i/600/depositphotos_210245966-stock-photo-ignore-haters-word-cloud-hand.jpg)--->
 ## Описание проекта
 
 **ЦЕЛЬ ПРОЕКТА:**
